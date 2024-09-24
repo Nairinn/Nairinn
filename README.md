@@ -59,6 +59,6 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/0Qb69m8.gif](https://media1.tenor.com/m/2iJcSJ5EnFYAAAAC/binbougami-ga-momiji.gif" alt="Excited GIF" />
+  <img src="[https://i.imgur.com/0Qb69m8.gif](https://media1.tenor.com/m/2iJcSJ5EnFYAAAAC/binbougami-ga-momiji.gif](https://media1.tenor.com/m/2iJcSJ5EnFYAAAAC/binbougami-ga-momiji.gif)" alt="Excited GIF" />
 </div>
 ###
