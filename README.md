@@ -53,7 +53,7 @@
 </div>
 
 ### My GIF 🎉
-![Excited GIF](https://media1.tenor.com/images/2iJcSJ5EnFYAAAAC/binbougami-ga-momiji.gif)
+![Excited GIF](https://i.imgur.com/0Qb69m8.gif)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nairinn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
