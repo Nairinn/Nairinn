@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nairinn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-![Excited GIF]([https://i.imgur.com/0Qb69m8.gif](https://tenor.com/view/binbougami-ga-momiji-binboda-spin-spinning-gif-15718227116439149654))
+![Excited GIF](https://media1.tenor.com/m/2iJcSJ5EnFYAAAAC/binbougami-ga-momiji.gif)
 
 
 ###
