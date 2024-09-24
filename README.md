@@ -53,7 +53,7 @@
 </div>
 
 ### Spotify Playing 🎶
-[![Nairinn Spotify Playing](novatorem-m19rk4id1-naing-lynn-kyaws-projects.vercel.app/api/spotify)](https://open.spotify.com/user/ajwg7lmdn8rkokhuij3t43kdp)
+[![Nairinn Spotify Playing](https://novatorem-m19rk4id1-naing-lynn-kyaws-projects.vercel.app/api/spotify)](https://open.spotify.com/user/ajwg7lmdn8rkokhuij3t43kdp)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nairinn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
